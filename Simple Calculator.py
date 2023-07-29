@@ -8,7 +8,7 @@ print("5.Square")
 print("6.Cube")
 cond = True
 
-while(cond==True):
+while(cond):
     ch = int(input("Select operation number:"))
     if (ch == 1):
         inputvals = input("Enter the numbers to be added: ")
